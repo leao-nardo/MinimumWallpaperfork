@@ -1,5 +1,6 @@
-<a href='https://play.google.com/store/apps/details?id=com.ahelloworlddev.minimumwallpaper'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="240"/></a>
-
+- i plan to : - separete versions for older api/androids to remove legacy code form the current .
+- shrink n optimize more
+- make even smaller app with no screens/views to only set the wallpaper to black 1px , no option to change color or nothing . i'll call this other fork "wallpaper black 1px"
 # Minimum Wallpaper
 
 ## The Problem
